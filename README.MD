@@ -34,4 +34,4 @@ flask run
 ```
 
 ## Автор
-Автор Osdas
+Автор: pOsdas
